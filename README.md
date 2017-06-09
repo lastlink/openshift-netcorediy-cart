@@ -1,7 +1,8 @@
 OpenShift NetCore Cartridge
 ======================
+# in development, basing it off of go cartridge that was based off of heroku
 
-Runs [NetCore](http://golang.org) on [OpenShift](https://openshift.redhat.com/app/login) using downloadable cartridge support.  To install to OpenShift from the CLI (you'll need version 1.9 or later of rhc), run:
+Runs [NetCore](http://url) on [OpenShift](https://openshift.redhat.com/app/login) using downloadable cartridge support.  To install to OpenShift from the CLI (you'll need version 1.9 or later of rhc), run:
 
     rhc create-app mycart http://cdk-claytondev.rhcloud.com --from-code=git://github.com/url.git
 
