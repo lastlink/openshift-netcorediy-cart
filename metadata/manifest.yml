@@ -1,14 +1,14 @@
-Name: go
-Cartridge-Short-Name: GO
-Display-Name: Go 1.5.2
-Version: "1.5.2"
+Name: netcore
+Cartridge-Short-Name: NETCORE
+Display-Name: NetCore 1.5.2
+Version: "0.0.1"
 Versions: ["1.5.2","1.4.2","1.4.1", "1.4", "1.3.1","1.2.2","1.1.2", "1.0.3"]
 Website: https://github.com/smarterclayton/openshift-go-cart
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: smarterclayton
+Cartridge-Vendor: lastlink
 Categories:
   - service
-  - golang
+  - netcore
   - web_framework
 Provides:
   - go-1.5.2
